@@ -33,6 +33,7 @@ body{
     margin: 0 20px;
     font-size: 15px;
     color: #289c62;
+    padding:20px;
 }
 #output{
     text-align: right;
