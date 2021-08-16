@@ -82,7 +82,7 @@ button:nth-child(8){
 }
 button:nth-child(12){
     font-size: 20px;
-    background-color: #4e0a0a;
+    background-color: #aa98a9;
 }
 button:nth-child(16){
     font-size: 20px;
@@ -90,5 +90,5 @@ button:nth-child(16){
 }
 button:nth-child(20){
     font-size: 20px;
-    background-color: #d31299;
+    background-color: #1cbdbd;
 }
